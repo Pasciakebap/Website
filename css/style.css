@@ -169,7 +169,7 @@ h5{
 h6{
   color: white;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 640px) {
   p{
     text-align:  center;
     font-size: 1em;
