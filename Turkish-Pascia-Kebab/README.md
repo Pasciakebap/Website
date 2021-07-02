@@ -1,2 +1,0 @@
-# Turkish-Pascia-Kebab
-Client
